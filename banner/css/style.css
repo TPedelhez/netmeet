@@ -1,0 +1,28 @@
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+  background-color: #F0F0F0;
+
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+.text-center {
+  text-align: center;
+}
+
+.container {
+  margin-left: 0 auto; /* 0px => top/bottom, automatic => left/right */
+}
+
+.spacer {
+  padding: 30px
+}
+
+.color-grey {
+    color: #3F3F3F;
+}
